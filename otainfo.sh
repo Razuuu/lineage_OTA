@@ -20,7 +20,7 @@ SIZE=$(du -b $ZIP | cut -f1 -d '	')
 TYPE=$(echo $FILENAME | cut -f4 -d '-')
 VERSION=$(echo $FILENAME | cut -f2 -d '-')
 
-URL="https://github.com/Linux4/lineage_OTA/releases/download/${DATE}/${FILENAME}"
+URL="https://github.com/Exynoobs/lineage_OTA/releases/download/${DATE}/${FILENAME}"
 
 echo "{"
 echo "  \"response\": ["
