@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1613061953",
-      "filename": "lineage-18.1-20210211-UNOFFICIAL-z3s.zip",
-      "id": "291dcad64fd235c6749eec61cffed34cfd22021a88eeebf89dfc1b0ce0534b3e",
+      "datetime": "1614168837",
+      "filename": "lineage-18.1-20210224-UNOFFICIAL-z3s.zip",
+      "id": "7ab3679d020792b13fd05f3708dbcc056aaa46ddcc0566b912b0ea699bf6cf8b",
       "romtype": "UNOFFICIAL",
-      "size": "748780634",
-      "url": "https://github.com/Exynoobs/lineage_OTA/releases/download/20210211/lineage-18.1-20210211-UNOFFICIAL-z3s.zip",
+      "size": "749367635",
+      "url": "https://github.com/Exynoobs/lineage_OTA/releases/download/20210224/lineage-18.1-20210224-UNOFFICIAL-z3s.zip",
       "version": "18.1"
     }
   ]
