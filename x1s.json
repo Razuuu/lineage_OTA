@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1613051404",
-      "filename": "lineage-18.1-20210211-UNOFFICIAL-x1s.zip",
-      "id": "72f2ec8b31e331d788c9a186d860d6089115b44296806d91f6f00e6ed837a51e",
+      "datetime": "1614181378",
+      "filename": "lineage-18.1-20210224-UNOFFICIAL-x1s.zip",
+      "id": "e6f98986daf923a92705097f88c72db26aea04da91d573104493088b67ed00d4",
       "romtype": "UNOFFICIAL",
-      "size": "748823491",
-      "url": "https://github.com/Exynoobs/lineage_OTA/releases/download/20210211/lineage-18.1-20210211-UNOFFICIAL-x1s.zip",
+      "size": "749272113",
+      "url": "https://github.com/Exynoobs/lineage_OTA/releases/download/20210224/lineage-18.1-20210224-UNOFFICIAL-x1s.zip",
       "version": "18.1"
     }
   ]
