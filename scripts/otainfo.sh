@@ -1,11 +1,13 @@
 #!/bin/bash
 
-if [ -z "$1" ]; then
-    echo "Usage: $0 <ota zip>"
+if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ]; then
+    echo "Usage: $0 <ota zip> <repo url> <releasename>"
     exit 1
 fi
 
 ZIP="$1"
+REPOURL="$2"
+RELEASENAME="$3"
 
 METADATA=$(unzip -p "$ZIP" META-INF/com/android/metadata)
 
@@ -20,7 +22,7 @@ SIZE=$(du -b $ZIP | cut -f1 -d '	')
 TYPE=$(echo $FILENAME | cut -f4 -d '-')
 VERSION=$(echo $FILENAME | cut -f2 -d '-')
 
-URL="https://github.com/Exynoobs/lineage_OTA/releases/download/${DATE}/${FILENAME}"
+URL="$REPOURL/releases/download/${RELEASENAME}/${FILENAME}"
 
 echo "{"
 echo "  \"response\": ["
