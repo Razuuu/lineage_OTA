@@ -91,8 +91,8 @@ fetch(url).then(response => response.json()).then((json) => {
             <td align="left">{{ rear_camera }}</td>
         </tr>
 {% endfor %}
-{% assign front_cameras = page.front_cameras | split: ";" %}
-{% for front_camera in front_cameras %}
+{% assign front_camera = page.front_camera | split: ";" %}
+{% for front_camera in front_camera %}
         <tr>
             <td align="left">Front Camera</td>
             <td align="left">{{ front_camera }}</td>
