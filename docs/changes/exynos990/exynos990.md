@@ -1,3 +1,17 @@
+## 2021-10-16
+- Updated blobs/kernel from latest samsung release
+- WPA3 Fixed
+- Updated init.exynos990.rc/ueventd.rc from XXSDUE4
+- Cleaned up uneeded proprietary files
+- Cleaned up device manifest
+- Building Fastcharge HAL
+- Allow fastbootd to flash super/userdata partition
+- Sepolicy - addressed multiple denials
+- Major device tree refactor, adapted to standard lineageos devicetree structure
+- Updated Lineageos sources
+
+Major thanks to Tim and Rob for these updates
+
 ## 2021-05-21
 
 **NOTE:UPDATING THE RECOVERY AND FORMATTING DATA IS REQUIRED FOR THIS UPDATE, BECAUSE IT WILL NOT BOOT OTHERWISE.**
