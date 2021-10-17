@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1634376991",
+      "filename": "lineage-18.1-20211016-UNOFFICIAL-x1s.zip",
+      "id": "2cd78f5fdb55c4d4360048b42d81d15f65315e9b65a916d8f636f0c7df098541",
+      "romtype": "UNOFFICIAL",
+      "size": "774637480",
+      "url": "https://github.com/Exynoobs/OTA/releases/download/x1s-20211016/lineage-18.1-20211016-UNOFFICIAL-x1s.zip",
+      "version": "18.1"
+    }
+  ]
+}

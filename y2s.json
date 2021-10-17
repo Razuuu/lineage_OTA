@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1634382905",
+      "filename": "lineage-18.1-20211016-UNOFFICIAL-y2s.zip",
+      "id": "6daddc70c163c3a81c9b0a12362d0a4b0ce986d2bc87c661054bc4b99c2d91be",
+      "romtype": "UNOFFICIAL",
+      "size": "774831290",
+      "url": "https://github.com/Exynoobs/OTA/releases/download/y2s-20211016/lineage-18.1-20211016-UNOFFICIAL-y2s.zip",
+      "version": "18.1"
+    }
+  ]
+}

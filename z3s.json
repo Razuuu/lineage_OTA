@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1634388294",
+      "filename": "lineage-18.1-20211016-UNOFFICIAL-z3s.zip",
+      "id": "f76026e5276dfc05415ed190b82be981dd4c56ab475c8b1ffd0a269ad34d1ee1",
+      "romtype": "UNOFFICIAL",
+      "size": "774961622",
+      "url": "https://github.com/Exynoobs/OTA/releases/download/z3s-20211016/lineage-18.1-20211016-UNOFFICIAL-z3s.zip",
+      "version": "18.1"
+    }
+  ]
+}
