@@ -1,3 +1,11 @@
+## 2021-10-23
+**NOTE: This build needs to be flashed manually, OTA will work again starting from next release**
+**NOTE #2: This will most probably be the last lineage-18.1 build. We will now focus work on lineage-19 instead**
+- Fixed OTA
+- Kanged autobrightness values from starlte + commonized them
+- Dropped SamsungDoze, switched to AOSP implementation which uses pickup sensor, no more accidental touches
+- removed unneded remove config_radio_access_family overlay
+
 ## 2021-10-16
 - Updated blobs/kernel from latest samsung release
 - WPA3 Fixed
