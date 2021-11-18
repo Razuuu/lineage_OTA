@@ -1,3 +1,8 @@
+## 2021-11-18
+- Updated sources from latest samsung XXSCDUJ5 Release
+- Added firmware assertion
+- For firmware updates, check here: https://github.com/Linux4/firmware-update/releases
+
 ## 2021-10-23
 **NOTE: This build needs to be flashed manually, OTA will work again starting from next release**
 **NOTE #2: This will most probably be the last lineage-18.1 build. We will now focus work on lineage-19 instead**
