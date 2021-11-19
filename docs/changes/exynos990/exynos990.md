@@ -1,3 +1,6 @@
+## 2021-11-19 (x1s fixup)
+- Fixed x1s resolution issues/leftovers
+
 ## 2021-11-18
 - Updated sources from latest samsung XXSCDUJ5 Release
 - Added firmware assertion
