@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1641422207",
-      "filename": "lineage-19.0-20220105-UNOFFICIAL-x1s.zip",
-      "id": "fa76ee5b8f3ed5bf2c113dc39c88eade69f038633fc42b010a47a4a5b4c40c6b",
+      "datetime": "1641936238",
+      "filename": "lineage-19.0-20220111-UNOFFICIAL-x1s.zip",
+      "id": "991e8f54b7724d662682d16329ee6e21f612893bef263aaef9e66461d608747a",
       "romtype": "UNOFFICIAL",
-      "size": "805370038",
-      "url": "https://github.com/Exynoobs/OTA/releases/download/x1s-20220105/lineage-19.0-20220105-UNOFFICIAL-x1s.zip",
+      "size": "805340373",
+      "url": "https://github.com/Exynoobs/OTA/releases/download/x1s-20220111/lineage-19.0-20220111-UNOFFICIAL-x1s.zip",
       "version": "19.0"
     }
   ]
