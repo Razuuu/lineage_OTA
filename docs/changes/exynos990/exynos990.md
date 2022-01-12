@@ -1,3 +1,6 @@
+## 2022-01-11
+- Initial lineage-19 release
+
 ## 2021-11-19 (x1s fixup)
 - Fixed x1s resolution issues/leftovers
 
