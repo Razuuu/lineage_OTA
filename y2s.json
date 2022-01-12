@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1637272885",
-      "filename": "lineage-18.1-20211118-UNOFFICIAL-y2s.zip",
-      "id": "73ad8db16ff8196e2e186b3eefb1a5b409339443f227d04f252b5a6f2af69dfd",
+      "datetime": "1641947318",
+      "filename": "lineage-19.0-20220112-UNOFFICIAL-y2s.zip",
+      "id": "db6407f8e1a4e0f14c769669c0833925459b2a8385f9694b675f28364bdf47b7",
       "romtype": "UNOFFICIAL",
-      "size": "772097813",
-      "url": "https://github.com/Exynoobs/OTA/releases/download/y2s-20211118/lineage-18.1-20211118-UNOFFICIAL-y2s.zip",
-      "version": "18.1"
+      "size": "805589873",
+      "url": "https://github.com/Exynoobs/OTA/releases/download/y2s-20220112/lineage-19.0-20220112-UNOFFICIAL-y2s.zip",
+      "version": "19.0"
     }
   ]
 }
