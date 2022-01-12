@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1637281271",
-      "filename": "lineage-18.1-20211119-UNOFFICIAL-z3s.zip",
-      "id": "3be487ce7186744a8251cdc556d0b624812a26809d19cb0d9d2ab03776176f4e",
+      "datetime": "1641952017",
+      "filename": "lineage-19.0-20220112-UNOFFICIAL-z3s.zip",
+      "id": "25d5c9ae5aec8ceec8aab712f97941b1da7edc714f5c6e12a580fdacf045ea42",
       "romtype": "UNOFFICIAL",
-      "size": "772135872",
-      "url": "https://github.com/Exynoobs/OTA/releases/download/z3s-20211119/lineage-18.1-20211119-UNOFFICIAL-z3s.zip",
-      "version": "18.1"
+      "size": "805635954",
+      "url": "https://github.com/Exynoobs/OTA/releases/download/z3s-20220112/lineage-19.0-20220112-UNOFFICIAL-z3s.zip",
+      "version": "19.0"
     }
   ]
 }
