@@ -1,0 +1,25 @@
+---
+title: Samsung Galaxy Note9
+codename: crownlte
+recovery_size: 67633152
+
+chipset: Samsung Exynos 9810 (10nm)
+cpu: Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55)
+gpu: Mali-G72 MP18
+ram: 4/6GB RAM
+shipped_version: Android 8.0 (Oreo)
+storage: 64/128/256GB UFS 2.1
+sim: Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)
+microsd: microSDXC (uses shared SIM slot) - dual SIM model only
+battery: 4000 mAh Li-Ion (non-removable)
+dimensions: 161.9 x 76.4 x 8.8 mm (6.37 x 3.01 x 0.35 in)
+display: 6.4 inches, 103.2 cm2 (~83.4% screen-to-body ratio)
+rear_cameras: 12 MP, f/1.5-2.4, 26mm (wide), 1/2.55", 1.4µm, dual pixel PDAF, OIS
+              12 MP, f/2.4, 52mm (telephoto), 1/3.4", 1.0µm, AF, OIS, 2x optical zoom
+front_camera: 8 MP, f/1.7, 25mm (wide), 1/3.6", 1.22µm, AF
+              2 MP (dedicated iris scanner camera)
+fingerprint: rear-mounted fingerprint
+sensors: Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2
+---
+
+{% include deviceinfo.md %}

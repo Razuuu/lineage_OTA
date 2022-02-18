@@ -1,6 +1,6 @@
 ---
-title: Changelog for Samsung Galaxy s9
-codename: starlte
+title: Changelog for Samsung Galaxy s9+
+codename: star2lte
 ---
 
 {% include changelog.md %}
