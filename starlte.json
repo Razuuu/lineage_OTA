@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1645127795",
-      "filename": "lineage-19.0-20220217-UNOFFICIAL-starlte.zip",
-      "id": "b110faf0d41690e1cbcbdc0da1e361650d6c2aab0670a5ea5bd5747249f6a22c",
+      "datetime": "1645263092",
+      "filename": "lineage-19.0-20220219-UNOFFICIAL-starlte.zip",
+      "id": "38a1cb59957a5603e5427306ecd45ca9584aa2e34b2d83110aea7cb28f27dfb7",
       "romtype": "UNOFFICIAL",
-      "size": "851462830",
-      "url": "https://github.com/Exynoobs/OTA/releases/download/starlte-20220217/lineage-19.0-20220217-UNOFFICIAL-starlte.zip",
+      "size": "851412716",
+      "url": "https://github.com/Exynoobs/OTA/releases/download/starlte-20220219/lineage-19.0-20220219-UNOFFICIAL-starlte.zip",
       "version": "19.0"
     }
   ]
