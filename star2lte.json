@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1645270709",
+      "filename": "lineage-19.0-20220219-UNOFFICIAL-star2lte.zip",
+      "id": "9bd5c127578b63169f385cd8efc73ad5b0c396992c71c1c0c71f0ef053753fdc",
+      "romtype": "UNOFFICIAL",
+      "size": "851640023",
+      "url": "https://github.com/Exynoobs/OTA/releases/download/star2lte-20220219/lineage-19.0-20220219-UNOFFICIAL-star2lte.zip",
+      "version": "19.0"
+    }
+  ]
+}
