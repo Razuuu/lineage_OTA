@@ -4,30 +4,17 @@
 
 [Changelog]({{ "/changes/" | append: page.codename | append: ".html" | relative_url }})
 
-<a id="download-url" href="">No builds available</a>
+{% assign ota_url = site.lineage_ota_base_url | append: page.codename | append: ".json" %}
+{% fetch builds_raw ota_url %}
+{% json builds builds_raw %}
+{% assign build = builds.response[0] %}
+<a href="{{ build.url }}">{{ build.filename }}</a>
 <br>
-<a id="download-recovery-url" href="">No recovery builds available</a>
-
-<script type="text/javascript">
-let url = "{{ site.lineage_ota_base_url | append: page.codename | append: ".json" }}";
-
-fetch(url).then(response => response.json()).then((json) => {
-    let downloadUrl = document.getElementById("download-url");
-    downloadUrl.href = json.response[0].url;
-    downloadUrl.innerHTML = "Download " + json.response[0].filename + " (" + (json.response[0].size / 1024 / 1024).toFixed(2) + "MB)";
-
-{% if page.recovery_size %}
-    let recoverySize = {{ page.recovery_size }};
-{% endif %}
-
-    let downloadRecovery = document.getElementById("download-recovery-url");
-    downloadRecovery.href = json.response[0].url.replace("UNOFFICIAL", "recovery").replace(".zip", ".img");
-    downloadRecovery.innerHTML = "Download recovery " + json.response[0].filename.replace("UNOFFICIAL", "recovery").replace(".zip", ".img");
-
-    if (recoverySize > 0)
-        downloadRecovery.innerHTML += " (" + (recoverySize / 1024 / 1024).toFixed(2) + "MB)";
-});
-</script>
+<a href="{{ build.url }}.sha256">sha256</a>
+<br>
+<a href="{{ build.url | replace:'UNOFFICIAL','recovery' | replace:'.zip','.img' }}">{{ build.filename | replace:'UNOFFICIAL','recovery' | replace:'.zip','.img' }}</a>
+<br>
+<a href="{{ build.url | replace:'UNOFFICIAL','recovery' | replace:'.zip','.img' }}.sha256">sha256</a>
 
 ## Device specifications
 
