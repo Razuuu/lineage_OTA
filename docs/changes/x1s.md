@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Changelog for Samsung Galaxy s20
 codename: x1s
 ---

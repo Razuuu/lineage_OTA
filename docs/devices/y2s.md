@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Samsung Galaxy S20+/S20+ 5G
 codename: y2s
 recovery_size: 67633152

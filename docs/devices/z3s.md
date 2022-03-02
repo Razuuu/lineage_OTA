@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Samsung Galaxy S20 Ultra
 codename: z3s
 recovery_size: 67633152

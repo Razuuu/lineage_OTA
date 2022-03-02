@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Samsung Galaxy Note9
 codename: crownlte
 recovery_size: 67633152

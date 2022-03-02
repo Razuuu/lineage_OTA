@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Changelog for Samsung Note9
 codename: crownlte
 ---

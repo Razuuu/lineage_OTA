@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Samsung Galaxy S9+
 codename: star2lte
 recovery_size: 67633152

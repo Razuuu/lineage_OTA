@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Changelog for Samsung Galaxy s9+
 codename: star2lte
 ---

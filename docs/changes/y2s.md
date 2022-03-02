@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Changelog for Samsung Galaxy S20+
 codename: y2s
 ---

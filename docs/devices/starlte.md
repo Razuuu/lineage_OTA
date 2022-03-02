@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Samsung Galaxy S9
 codename: starlte
 recovery_size: 67633152
