@@ -4,9 +4,9 @@ recovery_size: 67633152
 chipset: Samsung Exynos 9810 (10nm)
 cpu: Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55)
 gpu: Mali-G72 MP18
-ram: 4/6GB RAM
-shipped_version: Android 8.0 (Oreo)
-storage: 64/128/256GB UFS 2.1
+ram: 6/8GB RAM
+shipped_version: Android 8.1 (Oreo)
+storage: 128/512GB UFS 2.1
 sim: Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)
 microsd: microSDXC (uses shared SIM slot) - dual SIM model only
 battery: 4000 mAh Li-Ion (non-removable)
