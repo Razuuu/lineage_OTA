@@ -1,3 +1,20 @@
+## 2022-03-23
+**NOTE: GOOGLE MAPS ARE BROKEN WITH THIS RELEASE. THIS IS AN ISSUE ON SAMSUNG'S SIDE, UNTIL WE FIX IT USE MAPS GO OR ANY OTHER ALTERNATIVE.**
+
+**NOTE#2: IF FLASHING GOOGLE APPS, DO NOT SET UP NETWORK OR SECURITY OR ACCOUNT ON FIRST BOOT. SKIP EVERYTHING AND THEN SET UP THE ACCOUNT WHEN YOU GET PAST SETUP. THIS IS AS WELL NOT ISSUE ON OUR SIDE.**
+
+**NOTE#3: IF YOU FLASHED ANY THIRD PARTY PACKAGES (GAPPS etc.) YOU NEED TO REFLASH THEM AGAIN, BECAUSE ADDON.D WILL NOT WORK! IF YOU STILL HAVE ISSUES, DO A CLEAN FLASH.)**
+
+- Updated to lineage-19.1
+- Updated stock blobs/kernel
+- Started building AdvancedDisplay again
+- Wired up mDNIe features
+- Configured power hal
+- Resolved battery issues from first release
+- Enabled high refresh rate modes (96hz/120hz) - find it under display options
+- Forced resolution to 2400x1080 - By default, that resolution is used on stock as well, couldnt make high refresh rate work otherwise
+- Tons of other stuff, check github
+
 ## 2022-01-11
 - Initial lineage-19 release
 
