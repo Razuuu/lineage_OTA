@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1645276268",
-      "filename": "lineage-19.0-20220219-UNOFFICIAL-crownlte.zip",
-      "id": "c4aca9b1ab6e07accce6ea5d1a11a29e22e339d47415ec27e24740320bdbfaaf",
+      "datetime": "1648930861",
+      "filename": "lineage-19.1-20220402-UNOFFICIAL-crownlte.zip",
+      "id": "c4ed31d1a6d34787ee668b3d5452742a3ee3971f080d04109f862d146829f098",
       "romtype": "UNOFFICIAL",
-      "size": "851972833",
-      "url": "https://github.com/Exynoobs/OTA/releases/download/crownlte-20220219/lineage-19.0-20220219-UNOFFICIAL-crownlte.zip",
-      "version": "19.0"
+      "size": "817063100",
+      "url": "https://github.com/Exynoobs/OTA/releases/download/crownlte-20220402/lineage-19.1-20220402-UNOFFICIAL-crownlte.zip",
+      "version": "19.1"
     }
   ]
 }
