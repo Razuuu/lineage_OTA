@@ -1,3 +1,14 @@
+## 2022-04-11
+- Switched back to prebuilt libbt-vendor - fixes bluetooth issues
+- Applied a proper fix for google maps, which doesn't use kernel hacks 
+- Some more sepolicy updates
+- Updated some permissions
+- Disabled AudioFX
+- Removed redundant overlays
+- Fixed Screen record with device audio - Thanks Rob
+- Fixed vulkan - Thanks Rob
+- Fixed USB audio - Thanks Rob
+
 ## 2022-04-02
 **NOTE: IF FLASHING GOOGLE APPS, DO NOT SET UP NETWORK OR SECURITY OR ACCOUNT ON FIRST BOOT. SKIP EVERYTHING AND THEN SET UP THE ACCOUNT WHEN YOU GET PAST SETUP. THIS IS AS WELL NOT ISSUE ON OUR SIDE.**
 
