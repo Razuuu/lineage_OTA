@@ -1,3 +1,6 @@
+## 2022-04-12
+- Fixed BT audio issues in call and media - for real now
+
 ## 2022-04-11
 - Switched back to prebuilt libbt-vendor - fixes bluetooth issues
 - Applied a proper fix for google maps, which doesn't use kernel hacks 
