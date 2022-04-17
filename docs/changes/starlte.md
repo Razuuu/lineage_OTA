@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Changelog for Samsung Galaxy s9
+title: Changelog for Samsung Galaxy S9
 codename: starlte
 ---
 
