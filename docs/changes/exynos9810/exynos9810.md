@@ -1,3 +1,8 @@
+## 2022-04-20
+- Synced with LineageOS sources
+- microG signature spoofing support
+- Bring back support for star2lte and crownlte
+
 ## 2022-04-17
 - Synced with LineageOS sources
 
