@@ -1,3 +1,7 @@
+## 2022-04-21
+- Do not hide LTE+
+- Fixed Updater
+
 ## 2022-04-20
 - Synced with LineageOS sources
 - microG signature spoofing support
