@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": "1650451167",
+      "datetime": "1650492872",
       "filename": "lineage-19.1-20220420-UNOFFICIAL-starlte.zip",
-      "id": "d98d6c8cd100ad6b525fec36f1873b9ab169f6a3fe44d9415b08517cb4bf1d34",
+      "id": "c449a5e36666d257922f23f2b63c9f41850e644fba429dfead038d2b9d3a0c6d",
       "romtype": "UNOFFICIAL",
-      "size": "793438181",
+      "size": "805267279",
       "url": "https://github.com/Razuuu/lineage_OTA/releases/download/starlte-20220420/lineage-19.1-20220420-UNOFFICIAL-starlte.zip",
       "version": "19.1"
     }
