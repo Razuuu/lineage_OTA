@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "x",
-      "filename": "x",
-      "id": "x0",
+      "datetime": "1650459789",
+      "filename": "lineage-19.1-20220420-UNOFFICIAL-crownlte.zip",
+      "id": "17a97c73e551d66e93f1d08fb118850ad7375d1e2be942cf5b3d8fc387c3f7da",
       "romtype": "UNOFFICIAL",
-      "size": "x",
-      "url": "x",
+      "size": "793894496",
+      "url": "https://github.com/Razuuu/lineage_OTA/releases/download/crownlte-20220420/lineage-19.1-20220420-UNOFFICIAL-crownlte.zip",
       "version": "19.1"
     }
   ]
