@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1650456401",
-      "filename": "lineage-19.1-20220420-UNOFFICIAL-star2lte.zip",
-      "id": "35312763a3a82c12b7ca294b03572ebd55cfc0b73f3691050642805855414c32",
+      "datetime": "1650524806",
+      "filename": "lineage-19.1-20220421-UNOFFICIAL-star2lte.zip",
+      "id": "b5d4f50bdae8702c27fb1ac4a773a2fa7c44d515a1a33a01c5facb0619f57453",
       "romtype": "UNOFFICIAL",
-      "size": "793647480",
-      "url": "https://github.com/Razuuu/lineage_OTA/releases/download/star2lte-20220420/lineage-19.1-20220420-UNOFFICIAL-star2lte.zip",
+      "size": "805538207",
+      "url": "https://github.com/Razuuu/lineage_OTA/releases/download/star2lte-20220421/lineage-19.1-20220421-UNOFFICIAL-star2lte.zip",
       "version": "19.1"
     }
   ]
