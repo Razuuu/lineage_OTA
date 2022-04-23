@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1650499867",
-      "filename": "lineage-19.1-20220421-UNOFFICIAL-crownlte.zip",
-      "id": "a71a5d8af53fdf225e8e20dd652ead19cda654723be12e4d270071bc5f73144b",
+      "datetime": "1650717219",
+      "filename": "lineage-19.1-20220423-UNOFFICIAL-crownlte.zip",
+      "id": "ab9511d36a5fe05022a1962335e0db340afc9ed08cf777d47903197f4b26f36f",
       "romtype": "UNOFFICIAL",
-      "size": "806104752",
-      "url": "https://github.com/Razuuu/lineage_OTA/releases/download/crownlte-20220421/lineage-19.1-20220421-UNOFFICIAL-crownlte.zip",
+      "size": "806175471",
+      "url": "https://github.com/Razuuu/lineage_OTA/releases/download/crownlte-20220423/lineage-19.1-20220423-UNOFFICIAL-crownlte.zip",
       "version": "19.1"
     }
   ]
