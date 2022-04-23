@@ -1,3 +1,6 @@
+## 2022-04-23
+- Synced with LineageOS sources
+
 ## 2022-04-21
 - Do not hide LTE+
 - Fixed Updater
