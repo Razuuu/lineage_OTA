@@ -3,7 +3,8 @@
 
 # {{ page.title }} ({{ page.codename }})
 
-[Changelog]({{ "/changes/" | append: page.codename | append: ".html" | relative_url }})
+[Changelog]({{ "/changes/" | append: page.codename | append: ".html" | relative_url }})  
+[Update Firmware]({{ "/fw_update/" | append: page.codename | append: ".html" | relative_url }})  
 
 {% assign ota_url = site.lineage_ota_base_url | append: page.codename | append: ".json" %}
 {% fetch builds_raw ota_url %}
