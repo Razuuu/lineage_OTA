@@ -1,3 +1,8 @@
+## 2023-10-07
+- Synced with LineageOS sources
+- build signed with my developer keys
+- microG signature spoofing support
+
 ## 2023-10-06
 - Switch to prebuilt nfc
 
