@@ -4,4 +4,4 @@ lineage_ota_base_url: https://raw.githubusercontent.com/Razuuu/lineage_OTA/maste
 
 firmware-update-raw: https://raw.githubusercontent.com/Razuuu/firmware-update/master/current.
 firmware-update-releases: https://api.github.com/repos/Razuuu/firmware-update/releases/tags/
-firmware-update-download: https://github.com/Razuuu/firmware-update/releases/download/
+firmware-update-download: https://github.com/Razuuu/firmware-update/releases/download
