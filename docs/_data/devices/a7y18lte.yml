@@ -1,7 +1,4 @@
-models:
-  - SM-A750FN
-  - SM-A750F
-
+models: SM-A750FN
 recovery_size: 39845888
 
 chipset: Samsung Exynos 7885 (14nm)
