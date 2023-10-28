@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 
 lineage_ota_base_url: https://raw.githubusercontent.com/Razuuu/lineage_OTA/master/
 
-firmware-update-raw: https://raw.githubusercontent.com/Linux4/firmware-update/master/current.
-firmware-update-releases: https://api.github.com/repos/Linux4/firmware-update/releases/tags/
-firmware-update-download: https://github.com/Linux4/firmware-update/releases/download/
+firmware-update-raw: https://raw.githubusercontent.com/Razuuu/firmware-update/master/current.
+firmware-update-releases: https://api.github.com/repos/Razuuu/firmware-update/releases/tags/
+firmware-update-download: https://github.com/Razuuu/firmware-update/releases/download/
