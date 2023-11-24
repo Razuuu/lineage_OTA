@@ -1,3 +1,7 @@
+## 2023-11-15
+- Synced with LineageOS sources
+- Add support for SM-A750G
+
 ## 2023-10-07
 - Synced with LineageOS sources
 - build signed with my developer keys
