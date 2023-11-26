@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1700074833",
-      "filename": "lineage-18.1-20231115-UNOFFICIAL-a7y18lte.zip",
-      "id": "7b67a1ad2c3ea148ac62bdd9cf5023c350cb843cb95b22ff939e6542d79ca64a",
+      "datetime": "1701030476",
+      "filename": "lineage-18.1-20231126-UNOFFICIAL-a7y18lte.zip",
+      "id": "c389e7b55a87ad1d359acb30ff8619fb88d519ac87e003fee90244073c14b533",
       "romtype": "UNOFFICIAL",
-      "size": "708832092",
-      "url": "https://github.com/Razuuu/lineage_OTA/releases/download/a7y18lte-20231115/lineage-18.1-20231115-UNOFFICIAL-a7y18lte.zip",
+      "size": "708822167",
+      "url": "https://github.com/Razuuu/lineage_OTA/releases/download/a7y18lte-20231126/lineage-18.1-20231126-UNOFFICIAL-a7y18lte.zip",
       "version": "18.1"
     }
   ]
