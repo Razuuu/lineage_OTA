@@ -1,3 +1,7 @@
+## 2023-11-26
+- Synced with LineageOS sources
+- Fixed MTP
+
 ## 2023-11-15
 - Synced with LineageOS sources
 - Add support for SM-A750G
