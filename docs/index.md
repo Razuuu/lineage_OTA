@@ -1,16 +1,13 @@
 ---
 layout: default
-title: LineageOS builds by Razuuu
+title: DEPRECATED – Moved to lineage.a2l5e0x1.at
 ---
 
-# Supported devices
+# DEPRECATED
 
-## Exynos7885 devices is now at <a href="https://lineage.a2l5e0x1.at">https://lineage.a2l5e0x1.at</a>
+* **Exynos 7885 devices** are now maintained by **[A2L5E0X1](https://lineage.a2l5e0x1.at)**.
+* **Exynos 9810 devices** are officially supported and available on the **[official LineageOS website](https://download.lineageos.org/)**.
 
-{% assign sorted_pages = site.pages | sort: 'title' %}
+---
 
-{% for page in sorted_pages %}
-{% if page.title and page.url and page.url contains "/devices/" %}
-- [{{ page.title }} ({{ page.codename }})]({{ page.url | relative_url }})
-{% endif %}
-{% endfor %}
+*Thanks for the support! ;)*
