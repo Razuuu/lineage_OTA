@@ -5,6 +5,8 @@ title: LineageOS builds by Razuuu
 
 # Supported devices
 
+## Exynos7885 devices is now at <a href="https://lineage.a2l5e0x1.at">https://lineage.a2l5e0x1.at</a>
+
 {% assign sorted_pages = site.pages | sort: 'title' %}
 
 {% for page in sorted_pages %}
